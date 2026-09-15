@@ -2,7 +2,7 @@
 
 A generic watchlist app. It is a TypeScript monorepo: an Express JSON API, a Vite React UI, and shared entity types.
 
-Requires Node 20 or newer.
+Requires Node 22 or newer (the API uses the built-in `node:sqlite` module).
 
 ## Setup
 
